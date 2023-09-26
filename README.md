@@ -317,13 +317,7 @@ ggplot(data = bromeliads,
 ##since I am not very familiar with this dataset and in fact bromeliad!)
 
 
-## these bivariate outliers can be identified with the Mahalanobis distance 
-#for each row
-#bromeliads %>% 
-  #insist_rows(maha_dist, within_n_mads(10), everything())
-#The code leads to an error "Error in svd(X) : infinite or missing values in 'x'"
-#although I followed the same code as the lesson-3 script! In the penguins dataset
-#we also have NA values, so this I guess might not be the reason.
+
 
 
 
