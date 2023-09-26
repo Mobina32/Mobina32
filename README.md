@@ -1,10 +1,4 @@
-## Scientific Data Management Course
-## Data Cleaning and Standards Assignment
-## Using BWG dataset provided by the SDM course
-## Mobina Gholamhosseini
-## 2023-09-15
-## Since my PhD project is related to spatial and temporal changes, 
-## I choose the Dates and Coordinates data cleaning task
+##This is my assignment for SDM course
 
 ## NOTE ##
 ## In order to import the data with this script, your working directory needs to
